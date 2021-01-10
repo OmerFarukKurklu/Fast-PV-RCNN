@@ -1,7 +1,3 @@
-"""
-Code borrowed from https://github.com/traveller59/second.pytorch.
-"""
-
 import itertools
 import torch
 from torch import nn
